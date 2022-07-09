@@ -8,6 +8,7 @@ public class Assignment1 {
 	int n=sc.nextInt();
 	int p=sc.nextInt();
 	
+	
 	try
 	{
 		validate(n,p);
